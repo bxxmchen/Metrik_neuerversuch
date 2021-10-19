@@ -20,7 +20,7 @@ public class CanvasController implements MouseListener {
     Canvas canvas;
 
     /**
-     * The method mouseClicked counts the amount of mouse clicks and draws the squares.
+     * The method mouseClicked counts the amount of mouse clicks and draws the circles.
      * @param e event
      */
     @Override
